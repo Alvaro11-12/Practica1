@@ -57,6 +57,7 @@ public class Main {
         Output.introducirNota();
         int nota = Input.getNumber();
 
+        Ssout
        estudiante.add(new Estudiantes(id, nombre, edad, asignatura,nota));
     }
 
